@@ -1,4 +1,5 @@
 #include "sort.h"
+#include "main.h"
 /**
  * shell_sort - sort the array using shell method and knuth sequence
  * @array: array to sort
