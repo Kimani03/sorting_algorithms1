@@ -2,6 +2,7 @@
 /**
  * bubble_sort - function that sorts an array using bubble sorting
  * @array: array to sort
+ *
  * @size: size of the array
  * Return: Nothing
  */
